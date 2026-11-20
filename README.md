@@ -17,6 +17,9 @@ taller_calidad_semana15/
 ├── tests/
 │   ├── __init__.py
 │   └── test_procesamiento.py
+├── .github/
+│   └── workflows/
+│       └── tests.yml
 ├── .gitignore
 ├── README.md
 └── requirements.txt
